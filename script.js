@@ -1,4 +1,3 @@
-
 convertFrom = document.getElementById('u1');
 convertTo = document.getElementById('u2');
 valueInput = document.getElementById('ip1');
